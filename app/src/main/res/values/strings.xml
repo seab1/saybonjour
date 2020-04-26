@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SayBonjour</string>
+    <string name="edit_message">Please say Bonjour!</string>
+    <string name="button_send">Say it!</string>
+</resources>
